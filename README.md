@@ -1,12 +1,12 @@
 ### Hello There, <img src="https://media.giphy.com/media/68eJ8puipVLpfJ8eUH/giphy.gif" height="25px" style="vertical-align:top;">
 
-<a href="https://twitter.com/ImPrinceRajRoy" style="margin-right: 20px;">
+<a href="https://twitter.com/ImPrinceRajRoy" align="left">
     <img src="https://i.imgur.com/0iqUp84.png" width="25px" alt="Prince's Twitter">
 </a>
-<a href="https://www.linkedin.com/in/prince-raj-roy" style="margin-right: 20px;">
+<a href="https://www.linkedin.com/in/prince-raj-roy" align="left">
     <img src="https://i.imgur.com/zGnYi9r.png" width="25px">
 </a>
-<a href="https://www.instagram.com/princerajroy" style="margin-right: 20px;">
+<a href="https://www.instagram.com/princerajroy" align="left">
     <img src="https://i.imgur.com/zPFgizZ.png" width="25px">
 </a>
 <a href="mailto:princerajroy313@gmail.com">
