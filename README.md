@@ -1,12 +1,12 @@
 ### Hello There, <img src="https://media.giphy.com/media/68eJ8puipVLpfJ8eUH/giphy.gif" height="25px" style="vertical-align:top;">
 
-<a href="https://twitter.com/ImPrinceRajRoy" style="margin-right: 5px;">
-    <img src="https://i.imgur.com/0iqUp84.png" width="25px">
+<a href="https://twitter.com/ImPrinceRajRoy" style="margin-right: 20px;">
+    <img src="https://i.imgur.com/0iqUp84.png" width="25px" alt="Prince's Twitter">
 </a>
-<a href="https://www.linkedin.com/in/prince-raj-roy" style="margin-right: 5px;">
+<a href="https://www.linkedin.com/in/prince-raj-roy" style="margin-right: 20px;">
     <img src="https://i.imgur.com/zGnYi9r.png" width="25px">
 </a>
-<a href="https://www.instagram.com/princerajroy" style="margin-right: 5px;">
+<a href="https://www.instagram.com/princerajroy" style="margin-right: 20px;">
     <img src="https://i.imgur.com/zPFgizZ.png" width="25px">
 </a>
 <a href="mailto:princerajroy313@gmail.com">
@@ -22,10 +22,13 @@
 
 - 💻 I'm currently investing time to learn ReactJS more in depth
 - 👀 Doing some fun projects, recently updated my [Portfolio](https://princerajroy.site/), check it out
+- 📃 [CV](https://drive.google.com/file/d/1xLHIvxIGpB37G-Ks49nTtC5wVOMxJ4AE/view?usp=drive_open)
+
+***Don't forget***
 - 💬 Ping me up for any help or project ideas
 - 💌 Reach out to me, [@ImPrinceRajRoy](https://twitter.com/ImPrinceRajRoy)
 
-***Skills:***
+***Skills***
 
 <code><img src="https://i.imgur.com/17zQsgl.png" height="25px"/></code>
 <code><img src="https://i.imgur.com/lktcIaH.png" height="25px"/></code>
