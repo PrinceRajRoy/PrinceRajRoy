@@ -14,7 +14,7 @@
 </a>
 
 
-### Hi, I'm [Prince Raj Roy](https://princerajroy.site/), a self-taught Full Stack (mostly Frontend) developer 🚀 from Assam, India
+### Hi, I'm [Prince Raj Roy](https://princerajroy.site/), a self-taught Full Stack (mainly Frontend) developer 🚀 from Assam, India
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=princerajroy.princerajroy)
 
