@@ -20,7 +20,7 @@
 
 ***About Me***
 
-- 💻 I'm currently investing time to learn ReactJS more in depth
+- 💻 I'm currently investing time to learn in depth ReactJS
 - 👀 Doing some fun projects, recently updated my [Portfolio](https://princerajroy.site/), check it out
 - 📃 [CV](https://drive.google.com/file/d/1xLHIvxIGpB37G-Ks49nTtC5wVOMxJ4AE/view?usp=drive_open)
 
