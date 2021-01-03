@@ -1,8 +1,5 @@
 ### Hello There, <img src="https://media.giphy.com/media/68eJ8puipVLpfJ8eUH/giphy.gif" height="25px" style="vertical-align:top;">
 
-<a href="https://twitter.com/ImPrinceRajRoy">
-    <img src="https://i.imgur.com/JtYDmut.jpg?3" align="left" width="25px" height="25px" alt="Prince's Twitter">
-</a>
 <a href="https://www.linkedin.com/in/prince-raj-roy">
     <img src="https://i.imgur.com/zGnYi9r.png" align="left" width="25px" alt="Prince's LinkedIn">
 </a>
@@ -10,7 +7,10 @@
     <img src="https://i.imgur.com/zPFgizZ.png" align="left" width="25px" alt="Prince's Instagram">
 </a>
 <a href="mailto:princerajroy313@gmail.com">
-    <img src="https://i.imgur.com/BZgdDKE.png?1" width="28px" height="25px" alt="Prince's Gmail">
+    <img src="https://i.imgur.com/BZgdDKE.png?1" align="left" width="28px" height="25px" alt="Prince's Gmail">
+</a>
+<a href="https://www.facebook.com/princeraj.roy">
+    <img src="https://i.imgur.com/cigcVrF.png?1" width="25px" height="25px" alt="Prince's Facebook">
 </a>
 
 
@@ -26,7 +26,7 @@
 
 ***Don't forget***
 - 💬 Ping me up for any help or project ideas
-- 💌 Reach out to me, [@ImPrinceRajRoy](https://twitter.com/ImPrinceRajRoy)
+- 💌 Reach out to me, [here](mailto:princerajroy313@gmail.com)
 
 ***Skills***
 
