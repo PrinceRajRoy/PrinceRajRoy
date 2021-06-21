@@ -20,9 +20,8 @@
 
 ***About Me***
 
-- 💻 I'm currently investing time to learn in depth TypeScript
+- 💻 I'm currently investing time to learn React Internals.
 - 👀 Doing some fun projects, recently updated my [Portfolio](https://princerajroy.site/), check it out
-- 📃 [CV](https://drive.google.com/file/d/1xLHIvxIGpB37G-Ks49nTtC5wVOMxJ4AE/view?usp=drive_open)
 
 ***Don't forget***
 - 💬 Ping me up for any help or project ideas
